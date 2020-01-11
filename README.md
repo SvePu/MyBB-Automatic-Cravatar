@@ -1,1 +1,1 @@
-# MyBB-Automatic-Cravatar
+# MyBB Automatic Cravatar
