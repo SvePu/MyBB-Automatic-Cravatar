@@ -1,3 +1,5 @@
+![mybb_automatic_cravatar_cover](https://github.com/SvePu/MyBB-Automatic-Cravatar/blob/master/repoimages/mybb_automatic_cravatar_cover.png)
+
 # MyBB Automatic Cravatar
 Simple MyBB 1.8 plugin to create Minecraft username based avatars by using the web service of https://cravatar.eu
 
